@@ -14,10 +14,14 @@
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.6",
     "axios": "^1.7.2",
+    "konva": "^9.3.14",
     "moment": "^2.30.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.25.1"
+    "react-icons": "^5.2.1",
+    "react-konva": "^18.2.10",
+    "react-router-dom": "^6.25.1",
+    "uuid": "^10.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
